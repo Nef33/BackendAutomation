@@ -1,4 +1,4 @@
-package com.library.utility;
+package com.library.utilities;
 
 import com.github.javafaker.Faker;
 import io.restassured.http.ContentType;

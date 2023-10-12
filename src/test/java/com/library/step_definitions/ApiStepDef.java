@@ -1,11 +1,12 @@
-package com.library.steps;
+package com.library.step_definitions;
+
 
 import com.library.pages.BookPage;
 import com.library.pages.LoginPage;
-import com.library.utility.BrowserUtil;
-import com.library.utility.ConfigurationReader;
-import com.library.utility.DB_Util;
-import com.library.utility.LibraryAPI_Util;
+import com.library.utilities.BrowserUtil;
+import com.library.utilities.ConfigurationReader;
+import com.library.utilities.DB_Util;
+import com.library.utilities.LibraryAPI_Util;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

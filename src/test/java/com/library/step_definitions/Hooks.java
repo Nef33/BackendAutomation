@@ -1,11 +1,11 @@
-package com.library.steps;
+package com.library.step_definitions;
 
 
 
 
-import com.library.utility.ConfigurationReader;
-import com.library.utility.DB_Util;
-import com.library.utility.Driver;
+import com.library.utilities.ConfigurationReader;
+import com.library.utilities.DB_Util;
+import com.library.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
